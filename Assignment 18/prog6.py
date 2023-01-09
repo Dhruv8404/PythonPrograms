@@ -1,0 +1,15 @@
+d={
+    101:{
+    "Name":'dev',
+    "age":12
+    },
+    102:{
+    "Name":'falgun',
+    "age":15,
+    },
+    103:{
+        "Name":'grace',
+        "age":19
+        }
+}
+print(d)
